@@ -2,7 +2,7 @@ package tabletojson
 
 import (
 	"fmt"
-	"github.com/yigit433/tabletojson"
+	"github.com/yigit433/tabletojson-go"
 	"log"
 	"net/http"
 	"testing"

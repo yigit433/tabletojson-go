@@ -1,4 +1,4 @@
-module github.com/yigit433/tabletojson
+module github.com/yigit433/tabletojson-go
 
 go 1.19
 
